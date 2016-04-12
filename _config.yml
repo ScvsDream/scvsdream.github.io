@@ -15,5 +15,11 @@ url: "scvdream.github.io" # the base hostname & protocol for your site
 twitter_username: none
 github_username:  scvsdream
 
+collections:
+ games:
+  output: true
+ class:
+  output: true
+
 # Build settings
 markdown: kramdown
