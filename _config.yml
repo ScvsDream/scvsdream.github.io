@@ -20,6 +20,8 @@ collections:
   output: true
  class:
   output: true
+ reviews:
+  output: true
 
 # Build settings
 markdown: kramdown
