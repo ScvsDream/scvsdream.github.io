@@ -64,7 +64,7 @@ Video - 마리오 페인팅 Music composer Example
 
 ![sixtail1]({{http://scvsdream.github.io}}/images/29.jpg)
 
-최근에는 직접 밑그림도 그려서 그리는 하는 상급 난이도에 도전하는 중 입니다. 슬슬 쉽지만은 않지만 좌절할 정도로 어렵다기 보다는 재미있게 Challange한 수준입니다.
+최근에는 직접 밑그림도 그려서 그리는 상급 난이도에 도전하는 중 입니다. 슬슬 쉽지만은 않지만 좌절할 정도로 어렵다기 보다는 재미있게 Challange한 수준입니다.
 
 <br>
 
