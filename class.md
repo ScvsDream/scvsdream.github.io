@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Poke_Pic
+title : PokeMon
 ---
 
 
